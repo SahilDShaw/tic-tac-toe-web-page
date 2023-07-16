@@ -1,4 +1,4 @@
-### Tic Tac Toe
+# Tic Tac Toe
 This is a front-end tic tac toe game designed for two players. It is a classic game where players take turns marking X's and O's on a 3x3 grid. The objective of the game is to get three of your own symbols in a row, either horizontally, vertically, or diagonally.
 
 ## How to Play
